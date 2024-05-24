@@ -1,5 +1,5 @@
 // Array de colores básicos
-var candies = ["Blue", "Orange", "Green", "Yellow", "Red", "Purple", "Rock"];
+var candies = ["Blue", "Orange", "Green", "Yellow", "Red", "Purple","Chocoate"];
 var board = [];
 var rows = 9;
 var columns = 9;
